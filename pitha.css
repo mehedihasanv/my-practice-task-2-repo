@@ -35,9 +35,13 @@ textarea{
 }
 body,input{
     margin-block: 3px;
+}
+  
 
 .blog{
-    color: blue;
+    text-decoration: cornflowerblue;
     
-    
-}
+    }
+    footer{
+        text-align: center;
+    }
